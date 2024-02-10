@@ -278,11 +278,11 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001031/index.m3u8
 #EXTINF:-1, tvg-name="湖北卫视" group-title="省台" tvg-id="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png",湖北卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001027/index.m3u8
 #EXTINF:-1, tvg-name="湖南卫视" group-title="省台" tvg-id="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png",湖南卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001026/index.m3u8
+http://111.59.63.32:9901/tsfile/live/1028_1.m3u8
 #EXTINF:-1, tvg-name="吉林卫视" group-title="省台" tvg-id="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png",吉林卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001225/index.m3u8
 #EXTINF:-1, tvg-name="江苏卫视" group-title="省台" tvg-id="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png",江苏卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001033/index.m3u8
+http://221.213.43.82:8888/newlive/live/hls/22/live.m3u8
 #EXTINF:-1, tvg-name="江西卫视" group-title="省台" tvg-id="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png",江西卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001034/index.m3u8
 #EXTINF:-1, tvg-name="辽宁卫视" group-title="省台" tvg-id="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png",辽宁卫视
@@ -320,11 +320,11 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001023/index.m3u8
 #EXTINF:-1, tvg-name="重庆卫视" group-title="省台" tvg-id="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png",重庆卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001129/index.m3u8
 #EXTINF:-1, tvg-name="CCTV1" group-title="央视" tvg-id="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV-1.png",CCTV-1
-https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 #EXTINF:-1, tvg-name="CCTV2" group-title="央视" tvg-id="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV-2.png",CCTV-2
-https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 #EXTINF:-1, tvg-name="CCTV3" group-title="央视" tvg-id="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV-3.png",CCTV-3
-http://1.1.12119.top:2222/udp/239.132.1.3:5000
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
 #EXTINF:-1, tvg-name="CCTV4" group-title="央视" tvg-id="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV-4.png",CCTV-4
 http://1.1.12119.top:2222/udp/239.132.1.4:5000
 #EXTINF:-1, tvg-name="CCTV4K" group-title="央视" tvg-id="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png",CCTV-4K
