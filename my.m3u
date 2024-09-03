@@ -311,26 +311,6 @@ http://111.61.236.247:9081/hls/25/index.m3u8
 http://117.161.12.124/live/program/live/zgqx/1300000/mnf.m3u8
 #EXTINF:-1, tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" tvg-name="重庆卫视" tvg-id="重庆卫视" group-title="电视",重庆卫视
 http://121.24.98.226:8090/hls/78/index.m3u8
-#EXTINF:-1, tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dmxc.png" tvg-name="动漫秀场" tvg-id="E18" group-title="动漫",动漫秀场
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001196/index.m3u8?
-#EXTINF:-1, tvg-logo="https://epg.iill.top/logo/斗鱼.png" tvg-name="斗鱼" tvg-id="斗鱼" group-title="动漫",斗鱼动漫
-http://zzy789.xyz/douyu1.php?id=1174353
-#EXTINF:-1, tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hhxd.png" tvg-name="哈哈炫动" tvg-id="E17" group-title="动漫",哈哈炫动
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001232/index.m3u8
-#EXTINF:-1, tvg-logo="https://bkimg.cdn.bcebos.com/pic/2e2eb9389b504fc27f314950eadde71190ef6d7d?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxMTY=,g_7,xp_5,yp_5/format,f_auto" tvg-name="斗鱼" tvg-id="斗鱼" group-title="动漫",海绵宝宝
-http://zzy789.xyz/douyu1.php?id=3949681
-#EXTINF:-1, tvg-logo="https://live.fanmingming.com/tv/海南少儿.png" tvg-name="海南少儿" tvg-id="海南少儿" group-title="动漫",海南少儿
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?fmmv6
-#EXTINF:-1, tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hmdh.png" tvg-name="黑莓动画" tvg-id="C09" group-title="动漫",黑莓动画
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1, tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" group-title="动漫",嘉佳卡通
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001227/index.m3u8
-#EXTINF:-1, tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jykt.png" tvg-name="金鹰卡通" tvg-id="E04" group-title="动漫",金鹰卡通
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001460/index.m3u8
-#EXTINF:-1, tvg-logo="https://bkimg.cdn.bcebos.com/pic/342ac65c10385343fbf23b83535ca77eca806538224b?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U4MA==,g_7,xp_5,yp_5/format,f_auto" tvg-name="斗鱼" tvg-id="斗鱼" group-title="动漫",名侦探柯南
-http://zzy789.xyz/douyu1.php?id=6484910
-#EXTINF:-1, tvg-logo="https://3abn.org/img/logos/3abn-logo.png" tvg-id="3ABNEnglish.us" group-title="国际",3ABN English
-https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://3abn.org/img/logos/3abn-logo.png" tvg-id="3ABNEnglish.us" group-title="国际",3ABN English
 https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://img0.baidu.com/it/u=2430871227,2364238053&fm=253&fmt=auto&app=138&f=JPEG?w=610&h=488" tvg-name="4K Travel TV " tvg-id="4K Travel TV " group-title="国际",4K Travel TV (1080p)
@@ -440,7 +420,7 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1, tvg-logo="https://bkimg.cdn.bcebos.com/pic/79f0f736afc379310a557e3cf89ca04543a98226bbd4?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U5Mg==,g_7,xp_5,yp_5/format,f_auto" tvg-name="yy" tvg-id="yy" group-title="直播",大明王朝
 https://live.goodiptv.club/api/yy.php?id=1382736879
 #EXTINF:-1, tvg-logo="https://bkimg.cdn.bcebos.com/pic/2cf5e0fe9925bc315c6015ac3e879ab1cb134954daf5?x-bce-process=image/format,f_auto/quality,Q_70/resize,m_lfit,limit_1,w_536" tvg-name="yy" tvg-id="yy" group-title="直播",大明王朝
-http://live.iill.top/yy.php?id=1382736818http://live.iill.top/yy.php?id=1382736818
+http://live.iill.top/yy.php?id=1382736818
 #EXTINF:-1, tvg-logo="https://epg.pw/media/" tvg-name="電影頻道" group-title="直播",电影-1
 https://stream1.freetv.fun/3b7bddab4abaa6e9fe929933874e293f37897436ac6e59b68c162917f8750596.ctv
 #EXTINF:-1, tvg-logo="https://epg.pw/media/" tvg-name="電影頻道" group-title="直播",电影-2
@@ -517,6 +497,8 @@ http://zzy789.xyz/douyu1.php?id=8814650
 http://159.75.85.63:35455/douyu/8814650
 #EXTINF:-1, tvg-logo="https://epg.iill.top/logo/斗鱼.png" tvg-name="斗鱼" tvg-id="斗鱼" group-title="直播",斗鱼-电影-9292492
 http://159.75.85.63:35455/douyu/9292492
+#EXTINF:-1, tvg-logo="https://epg.iill.top/logo/斗鱼.png" tvg-name="斗鱼" tvg-id="斗鱼" group-title="直播",斗鱼-动漫-1174353
+http://zzy789.xyz/douyu1.php?id=1174353
 #EXTINF:-1, tvg-logo="https://epg.iill.top/logo/斗鱼.png" tvg-name="斗鱼" tvg-id="斗鱼" group-title="直播",斗鱼-豆瓣-52787
 http://zzy789.xyz/douyu1.php?id=52788
 #EXTINF:-1, tvg-logo="https://epg.iill.top/logo/斗鱼.png" tvg-name="斗鱼" tvg-id="斗鱼" group-title="直播",斗鱼-柯南-6484910
@@ -527,18 +509,16 @@ http://zzy789.xyz/douyu1.php?id=131977
 https://live.goodiptv.club/api/yy.php?id=1455225203
 #EXTINF:-1, tvg-logo="https://s1.yy.com/guild/header/10001.jpg" tvg-name="yy" tvg-id="yy" group-title="直播",港片喜剧
 https://live.goodiptv.club/api/yy.php?id=1355480591
+#EXTINF:-1, tvg-logo="https://bkimg.cdn.bcebos.com/pic/2e2eb9389b504fc27f314950eadde71190ef6d7d?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxMTY=,g_7,xp_5,yp_5/format,f_auto" tvg-name="斗鱼" tvg-id="斗鱼" group-title="直播",海绵宝宝
+http://zzy789.xyz/douyu1.php?id=3949681
 #EXTINF:-1, tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hmdy.png" tvg-name="黑莓电影" tvg-id="C08" group-title="直播",黑莓电影
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
 #EXTINF:-1, tvg-logo="https://bkimg.cdn.bcebos.com/pic/d439b6003af33a871de95363c55c10385243b5c7?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U4MA==,g_7,xp_5,yp_5/format,f_auto" tvg-name="yy" tvg-id="yy" group-title="直播",红楼梦1987经典版
 https://live.goodiptv.club/api/yy.php?id=1382745084
-#EXTINF:-1, tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hxjchd.png" tvg-name="欢笑剧场" tvg-id="E21" group-title="直播",欢笑剧场
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001193/index.m3u8
 #EXTINF:-1, tvg-logo="https://bkimg.cdn.bcebos.com/pic/f3d3572c11dfa9ecdb6dad2468d0f703918fc146?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U4MA==,g_7,xp_5,yp_5/format,f_auto" tvg-name="yy" tvg-id="yy" group-title="直播",活佛济公
 https://live.goodiptv.club/api/yy.php?id=1355265814
-#EXTINF:-1, tvg-logo="https://live.fanmingming.com/tv/NEWTV家庭剧场.png" tvg-name="newtv家庭剧场" tvg-id="newtv家庭剧场" group-title="直播",家庭剧场
-http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw3441504651_1879058580/ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8
 #EXTINF:-1, tvg-logo="https://bkimg.cdn.bcebos.com/pic/b151f8198618367a71a916e028738bd4b31ce5ef?x-bce-process=image/format,f_auto/quality,Q_70/resize,m_lfit,limit_1,w_536" tvg-name="yy" tvg-id="yy" group-title="直播",康熙王朝
-http://live.iill.top/yy.php?id=1382736818http://live.iill.top/yy.php?id=1382736818
+http://live.iill.top/yy.php?id=1382736818
 #EXTINF:-1, tvg-logo="https://bkimg.cdn.bcebos.com/pic/c83d70cf3bc79f3df8dc4c32b1f6da11728b47108320?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxNTA=,g_7,xp_5,yp_5/format,f_auto" tvg-name="yy" tvg-id="yy" group-title="直播",康熙微服私访记
 https://live.goodiptv.club/api/yy.php?id=1352811698
 #EXTINF:-1, tvg-logo="https://bkimg.cdn.bcebos.com/pic/b7fd5266d0160924faf81314dd0735fae7cd34db?x-bce-process=image/format,f_auto/resize,m_lfit,limit_1,h_684" tvg-name="林正英" tvg-id="林正英" group-title="直播",林正英
@@ -549,8 +529,6 @@ http://zzy789.xyz/douyu1.php?id=2516864
 http://zzy789.xyz/douyu1.php?id=431460
 #EXTINF:-1, tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/漫威电影.png" tvg-name="漫威电影" tvg-id="漫威电影" group-title="直播",漫威电影
 http://live.iill.top/douyu.php?id=6140589
-#EXTINF:-1, tvg-logo="https://live.fanmingming.com/tv/NEWTV明星大片.png" tvg-name="NEWTV明星大片" tvg-id="NEWTV明星大片" group-title="直播",明星大片
-http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw2856695654_946966165/ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
 #EXTINF:-1, tvg-logo="https://bkimg.cdn.bcebos.com/pic/d1160924ab18972b5ac9769fe9cd7b899f510af7?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxODA=,g_7,xp_5,yp_5/format,f_auto" tvg-name="斗鱼" tvg-id="斗鱼" group-title="直播",庆余年
 http://zzy789.xyz/douyu1.php?id=7489563
 #EXTINF:-1, tvg-logo="https://bkimg.cdn.bcebos.com/pic/0bd162d9f2d3572c1287b2c38313632762d0c343?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U4MA==,g_7,xp_5,yp_5/format,f_auto" tvg-name="斗鱼" tvg-id="斗鱼" group-title="直播",三国演义
