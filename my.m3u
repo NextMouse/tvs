@@ -62,7 +62,7 @@ https://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 #EXTINF:-1, tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" tvg-name="浙江休闲" tvg-id="浙江休闲" group-title="地方",浙江休闲
 https://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
 #EXTINF:-1, tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" tvg-name="CCTV1" tvg-id="CCTV1" group-title="电视",CCTV-1
-http://111.61.236.247:9081/hls/1/index.m3u8
+http://221.227.91.122:50001/tsfile/live/0001_1.m3u8
 #EXTINF:-1, tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" tvg-name="CCTV2" tvg-id="CCTV2" group-title="电视",CCTV-2
 http://111.61.236.247:9081/hls/2/index.m3u8
 #EXTINF:-1, tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" tvg-name="CCTV3" tvg-id="CCTV3" group-title="电视",CCTV-3
